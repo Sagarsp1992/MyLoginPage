@@ -44,7 +44,6 @@
 				growingScrollToLoad="true"
 				updateFinished="onUpdateFinished"
 				selectionChange="onSelectionChange">
-				saggy
 				<infoToolbar>
 					<Toolbar
 						active="true"
