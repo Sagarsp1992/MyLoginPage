@@ -61,7 +61,7 @@
 						press="onSelectionChange"
 						title="{Name}"
 						number="{Price}" numberUnit="{CurrencyCode}"
-						intro="{Category}"
+						intro="{Width}"
 >
 					</ObjectListItem>
 				</items>
